@@ -1,4 +1,4 @@
----
+Ki---
 title: About enterprise accounts
 intro: 'With {% data variables.product.prodname_ghe_cloud %}, you can create an enterprise account to enable collaboration between your organizations, while giving administrators a single point of visibility and management.'
 product: '{% data reusables.gated-features.enterprise-accounts %}'
